@@ -14,6 +14,7 @@
 | [0006-zigzag-conversion](https://github.com/Ramsingh122/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Ramsingh122/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ramsingh122/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Ramsingh122/leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ramsingh122/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ramsingh122/leetcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 | [0007-reverse-integer](https://github.com/Ramsingh122/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ramsingh122/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ramsingh122/leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ramsingh122/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
