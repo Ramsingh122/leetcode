@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramsingh122/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ramsingh122/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsingh122/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Ramsingh122/leetcode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0027-remove-element](https://github.com/Ramsingh122/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ramsingh122/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ramsingh122/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Ramsingh122/leetcode/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +93,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Ramsingh122/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ramsingh122/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ramsingh122/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
